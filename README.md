@@ -33,7 +33,7 @@ Este projeto utiliza [Poetry](https://python-poetry.org/) para gerenciamento de 
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/pdf-benchmarking.git
+    git clone https://github.com/rib-thiago/pdf-benchmarking.git
     cd pdf-benchmarking
     ```
 
