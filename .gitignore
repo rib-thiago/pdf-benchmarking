@@ -1,6 +1,8 @@
 # Recursos do Projeto
 
 results/
+.replit
+replit.nix
 
 
 # Byte-compiled / optimized / DLL files
